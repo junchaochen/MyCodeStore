@@ -55,3 +55,5 @@ git clone http: //path /to /git.git  # clone 的内容会放在当前目录下�
 git push  -u origin master 
 
 使用 git status 查看文件状态 
+
+Hello I am the GitHub!
