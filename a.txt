@@ -61,3 +61,5 @@ Hello I am the GitHub!
 Yes I get your Response!
 
 I gonna to test merge! Can you help me ?
+
+Just go ! Never afraid!
